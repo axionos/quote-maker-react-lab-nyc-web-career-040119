@@ -1,4 +1,5 @@
 import React from 'react';
+// console.log('QuoteCard Props', props)
 
 const QuoteCard = (props) =>
   <div>
